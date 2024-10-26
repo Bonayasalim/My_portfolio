@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: blue;
 }
 
 #about, #projects {
@@ -12,15 +12,15 @@ header {
 
 h2 {
     margin-bottom: 20px;
-    color: #007bff;
+    color: blue;
 }
 
 #skills .col-md-4 h4,
 #projects .col-md-6 h4 {
-    color: #007bff;
+    color: blue;
 }
 
 footer {
-    background-color: #007bff;
+    background-color: blue;
     padding: 10px 0;
 }
