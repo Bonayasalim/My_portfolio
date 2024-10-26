@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #007bff;
+}
+
+#about, #projects {
+    padding: 60px 0;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #007bff;
+}
+
+#skills .col-md-4 h4,
+#projects .col-md-6 h4 {
+    color: #007bff;
+}
+
+footer {
+    background-color: #007bff;
+    padding: 10px 0;
+}
